@@ -3,7 +3,7 @@
 ### About me: 
 I am an experienced fullstack developer and a UI/UX enthusiast from Pune(MH), India who love solving day to day problems using web and mobile based solutions.
 
-A deep interest in solving to Healthcare, Finanace and Education domain, is keeping me keen to learn and explore new things everyday.
+A deep interest in Healthcare, Finanace and Education domain, I have helped many small clients and early stage startups build amasing products which are used by a large audience around the world.
 
 I can help you solve your problems using:
 - Backend: Java, Groovy on Grails, Node, Python
