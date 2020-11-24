@@ -14,7 +14,6 @@ I can help you solve your problems using:
 - **OS**: MacOS, Debian, Fedora
 - **Design**: Figma, Framer
 
-Comfortable speaking English, Spanish and Hindi.
 I am also a part time musician, and tech blogger who is always ready to collaborate and create awesome stuff.
 
 #### You can find me on:
