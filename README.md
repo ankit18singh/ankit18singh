@@ -17,8 +17,9 @@ I can help you solve your problems using:
 I am also a part time musician, and tech blogger who is always ready to collaborate and create awesome stuff.
 
 ### Some Cool Stats
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit18singh)](https://github.com/ankit18singh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit18singh&layout=compact)](https://github.com/ankit18singh/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankit18singh&layout=compact)](https://github.com/ankit18singh/github-readme-stats)
+
 
 #### You can find me on:
 - [Medium](https://medium.com/@aj.ankitsingh)
