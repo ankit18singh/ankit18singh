@@ -20,7 +20,7 @@ I am also a part time musician, and tech blogger who is always ready to collabor
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit18singh&count_private=true&show_icons=true)](https://github.com/ankit18singh/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit18singh&layout=compact&show_private=true)](https://github.com/ankit18singh/github-readme-stats)
-[![Ankit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankit18singh)](https://github.com/ankit18singh/github-readme-stats)
+<!-- [![Ankit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankit18singh)](https://github.com/ankit18singh/github-readme-stats) -->
 
 
 
