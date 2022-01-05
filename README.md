@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankit18singh)
+
 #### About me: 
 I am an experienced fullstack developer and a UI/UX enthusiast from Pune(MH), India who love solving day to day problems using web and mobile based solutions.
 
