@@ -108,15 +108,3 @@ I can help you solve your problems using:
 #### PS: I am also a part time musician, and tech blogger who is always ready to collaborate and create awesome stuff.
 
 <br>
-
-<hr>
-<br>
-
-### 📝 My Latest Blog Post in Medium
-<br>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aj.ankitsingh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aj.ankitsingh/0" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aj.ankitsingh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aj.ankitsingh/1" alt="Recent Article 2"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aj.ankitsingh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aj.ankitsingh/2" alt="Recent Article 3"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aj.ankitsingh/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aj.ankitsingh/3" alt="Recent Article 4"></a>
-<br>
