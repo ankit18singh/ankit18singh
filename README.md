@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankit18singh)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankit18singh) 
 
 ### 👨‍💻 &nbsp;About Me
 
@@ -83,6 +83,10 @@ I can help you solve your problems using:
 <br>
 
 ### 📊 Some Cool Stats
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit18singh" alt="rishipurwar1" /></a> </p>
+
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit18singh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ankit's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit18singh&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800" /> |
 | ------------- | ------------- |
@@ -91,7 +95,7 @@ I can help you solve your problems using:
 
 ### 📮 You can follow me
 <br>
-<a href="https://stackexchange.com/users/8277299/ankit-kumar-singh"><img src="https://stackexchange.com/users/flair/8277299.png" width="208" height="58" alt="profile for Ankit Kumar Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ankit Kumar Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackexchange.com/users/8277299/ankit-kumar-singh"><img src="https://stackexchange.com/users/flair/8277299.png" width="208" height="58" alt="profile for Ankit Kumar Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ankit Kumar Singh on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a> 
 <br>
 <br>
 <a align="center" href="https://www.linkedin.com/in/ankit-kumar-singh-623a8981/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" width="25px"></a> 
@@ -103,6 +107,8 @@ I can help you solve your problems using:
 <a align="center" href="https://open.spotify.com/artist/34ZSrJBEXVn59gol4sxf1H"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png" width="25px"></a>
 &nbsp;&nbsp;
 <a align="center" href="https://www.instagram.com/im_ankitsingh"><img src="https://www.uni-giessen.de/fbz/fb04/institute/geschichte/fachjournalistik/bilder/Logos/instagram-logo/image_preview" width="25px"></a>
+&nbsp;&nbsp;
+<a align="center" href="https://twitter.com/im_ankitsingh" target="blank"><img src="https://img.shields.io/twitter/follow/im_ankitsingh?logo=twitter&style=for-the-badge" alt="im_ankitsingh" /></a>
 &nbsp;&nbsp;
 
 #### PS: I am also a part time musician, and tech blogger who is always ready to collaborate and create awesome stuff.
